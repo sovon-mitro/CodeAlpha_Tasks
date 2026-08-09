@@ -281,7 +281,7 @@ git clone https://github.com/sovon-mitro/CodeAlpha_Tasks/tree/main/Code_Alpha_Ba
 Then enter the project directory:
 
 ```bash
-cd SPECTRA
+cd Code_Alpha_Basic Network Sniffer
 ```
 
 ### 3. Install the Required Library
