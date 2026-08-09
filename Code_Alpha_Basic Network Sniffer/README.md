@@ -275,7 +275,7 @@ Download or clone the SPECTRA repository.
 Using Git:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SPECTRA.git
+git clone https://github.com/sovon-mitro/CodeAlpha_Tasks/tree/main/Code_Alpha_Basic%20Network%20Sniffer
 ```
 
 Then enter the project directory:
@@ -927,6 +927,7 @@ The author is not responsible for misuse of this software.
 
 ## Author
 
+Sovon Mitro
 Developed as a Python and network security learning project.
 
 **Project:** SPECTRA  
